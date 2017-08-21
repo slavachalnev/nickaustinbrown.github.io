@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nick Brown Launches Site"
+title: "created a site using gitpages"
 date: 2017-08-18
 ---
 
