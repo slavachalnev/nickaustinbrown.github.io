@@ -6,6 +6,6 @@ title: Updates
 	<ul class="update">
 
 	  {% for update in site.tidbits %}
-	    <li><span>{{ update.date | date_to_string }}</span> » <a href="{{ update.url }}" title="{{ update.title }}">{{ update.title }}</a></li>
+	    {{update.title}}
 	  {% endfor %}
 	</ul>
