@@ -1,5 +1,5 @@
 ---
-layout: update
+layout: post
 title: "nosebleeds"
 date: 2017-08-19
 ---
