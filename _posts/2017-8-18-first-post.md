@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "created a site using gitpages"
-date: 2017-08-18
+date: 2017-8-18
 ---
 
 We’re all on Spaceship Earth  
