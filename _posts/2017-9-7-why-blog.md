@@ -9,10 +9,10 @@ Provided I know how to use it. Where the levers are.
   
 Of the few blogs I really enjoy, Different philosophies guide each of them.  
 One writes complusivly, a habitual need to get the feel of his words perfectly matching his thoughts.    
-One directly causes people to think a certain way, to avoid a particular failure mode. Memectic surgery.   
-One writes fantatic essays through constant re-writing. Continual polishing.  
+One uses memectic surgery to reduce guilt based motivation. 
+One writes superb essays through constantly re-writing. Continual polishing.  
 One uses the blog as a tool to help her solve problems, it's a record of the path she took.   
-Once she's solved the problems she ceases writing.  
+Once she's solved the problem she ceases writing.  
   
 Of all these I allign with the last one the most.   
   
