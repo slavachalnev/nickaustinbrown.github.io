@@ -1,4 +1,4 @@
-Canberra Rationality Exercises
+rationality exercises
 
 
 I run a local Rationality group. We're mostly uni students we meet once a week. Here are some of the exercises I've run that went down really well.
