@@ -1,3 +1,9 @@
+---
+layout: post
+title: "rationality exercises"
+date: 2018-02-3
+---
+
 rationality exercises
 
 
