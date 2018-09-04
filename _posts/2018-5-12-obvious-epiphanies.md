@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "obvious epiphanies"
-date: 2017-05-12
+date: 2018-05-12
 ---
 
 In her post [Closer to Fine](https://srconstantin.wordpress.com/2017/03/25/closer-to-fine/), Sarah Constantin points at a something I'm calling obvious epiphanies. 
