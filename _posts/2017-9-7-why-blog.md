@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "why blog"
-date: 2017-09-7
+date: 2017-09-07
 ---
   
 A blog seems a useful public instrument to have.   

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "rationality exercises"
-date: 2018-02-3
+date: 2018-02-03
 ---
 
 rationality exercises
