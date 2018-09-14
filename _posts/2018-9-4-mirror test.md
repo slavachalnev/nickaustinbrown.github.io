@@ -17,7 +17,7 @@ My ability to see social things has increased also. Feel like I've got more agen
 
 Had a bucketload of anxiety for the first time in my life last month. Tangled up with large life decisions.
 
-Perhaps this is Val's Looking thing?
+Perhaps this is Val's [Looking thing](https://www.lesswrong.com/posts/mELQFMi9egPn5EAjK/my-attempt-to-explain-looking-insight-meditation-and)?
 
 Any resources / advice? Have people felt similar things?
 
