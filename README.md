@@ -1,2 +1,2 @@
 # nickaustinbrown.github.io
-personal webpage
+a personal webpage
