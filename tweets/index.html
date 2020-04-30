@@ -10,8 +10,13 @@ var tweetids =
 "1255517141442400257",
 "1255516705205485570",
 "1255516012570726400"];    
+const num_of_tweets = tweetids.length();
+ 
 console.log(tweetids);
-console.log(Math.random());
+console.log(Math.floor(Math.random()));
+console.log(num_of_tweets);
+console.log(Math.floor(Math.random()*num_of_tweets));
+
 // const randomElement = tweetids[Math.floor(Math.random() * tweetids.length)];
 // console.log(randomElement);
 // 	"https://twitter.com/brownian19/status/".concat(randomElement)
