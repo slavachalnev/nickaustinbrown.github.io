@@ -5,6 +5,9 @@ reload the page to see another
 <!--     <script src=https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.3.0/math.min.js></script> -->
 </head>
 
+<p id="demo"></p>
+
+
 <script>
 var tweetids = 
 ["116374374276499865",
@@ -12,11 +15,16 @@ var tweetids =
 "1255516705205485570",
 "1255516012570726400"];    
 const num_of_tweets = tweetids.length;
- 
+const random_no = Math.floor(Math.random()*num_of_tweets);
+const chosen_tweet = tweetids[random_no];
+
 console.log(tweetids);
-console.log(Math.floor(Math.random()));
-console.log(num_of_tweets);
-console.log(Math.floor(Math.random()*num_of_tweets));
+console.log("total tweets" + num_of_tweets);
+console.log("rando number is" + random_no);
+console.log("https://twitter.com/brownian19/status/"chosen_tweet)
+
+// OUtPUT 
+ document.getElementById("demo").innerHTML = chosen_tweet;
 
 // const randomElement = tweetids[Math.floor(Math.random() * tweetids.length)];
 // console.log(randomElement);
