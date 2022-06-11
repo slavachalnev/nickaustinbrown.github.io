@@ -1,16 +1,20 @@
 body {
+    
 }
 
 
-#all {
-  width: 100%;
+img {
+   height: auto;
+   width: 50%
+}
+
+
+menu {
+  min-width: 50%;
   padding: auto 30%;
 }
 
-.all {
-  width: 100%;
-  padding: auto 30%;
-}
+
 
 a {
     text-decoration: none;
@@ -27,17 +31,4 @@ p {
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: 2em;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
