@@ -2,20 +2,6 @@ body {
   max-width:800px;
   margin:25px auto;
 }
-.left {
-  display: inline-block;
-  width: 100px;
-
-  background: red;
-  color: white;
-}
-.right {
-  display: inline-block;
-  width: calc(100% - 100px);
-
-  background: blue;
-  color: white;
-}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
