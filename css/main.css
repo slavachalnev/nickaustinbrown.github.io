@@ -1,17 +1,17 @@
 body {
-  margin:200px auto;
 }
 
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+
+#all {
+  width: 100%;
+  padding: auto 30%;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+
+.all {
+  width: 100%;
+  padding: auto 30%;
 }
+
 a {
     text-decoration: none;
     color: #999;
