@@ -1,21 +1,12 @@
-body {
-    
-}
-
-
 img {
-   height: auto;
-   width: 50%;
+   width: 500px;
    max-width: 100%;
 }
-
 
 menu {
   min-width: 50%;
   padding: auto 30%;
 }
-
-
 
 a {
     text-decoration: none;
